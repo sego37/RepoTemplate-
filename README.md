@@ -1,66 +1,64 @@
 
-[![License: GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://opensource.org/licenses/GPL%203.0)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache%202.0)
 
-# f
+# d
 
 ## Description
 ```
-f
+d
 
 ```
 ##  Installation
 
 ```
-f
+d
 
 ```
 
 ## Usage
 
 ```
-f
+d
 
 ```
 
 ## Contribution
 
 ```
-f
+d
 
 ```
 
 ## Test
 
 ```
-f
+d
 
 ```
-
-## License
-
-```
-GPL 3.0
-        
-``` 
-
 
 ## Github
 
 ```
-f
+d
 
 ```
 
 ## Email
 
 ```
-f
+d
 
 ```
 
 ## Links
 
 ```
-f
+d
 
 ```
+
+## License
+- Apache 2.0
+- https://www.google.com/search?q=Apache%202.0     
+
+
