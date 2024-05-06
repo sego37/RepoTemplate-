@@ -1,64 +1,60 @@
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache%202.0)
 
-# d
+
+# CLEAR
 
 ## Description
 ```
-d
+CLEAR
 
 ```
 ##  Installation
 
 ```
-d
+CLEAR
 
 ```
 
 ## Usage
 
 ```
-d
+CLEAR
 
 ```
 
 ## Contribution
 
 ```
-d
+CLEAR
 
 ```
 
 ## Test
 
 ```
-d
+CLEAR
 
 ```
 
 ## Github
 
 ```
-d
+CLEAR
 
 ```
 
 ## Email
 
 ```
-d
+CLEAR
 
 ```
 
 ## Links
 
 ```
-d
+CLEAR
 
 ```
-
-## License
-- Apache 2.0
-- https://www.google.com/search?q=Apache%202.0     
 
 
