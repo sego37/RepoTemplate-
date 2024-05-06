@@ -1,60 +1,64 @@
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache%202.0)
 
-
-# CLEAR
+# ReadMe template 
 
 ## Description
 ```
-CLEAR
+its a template for ReadMes! Super COOL!!!
 
 ```
 ##  Installation
 
 ```
-CLEAR
+NA
 
 ```
 
 ## Usage
 
 ```
-CLEAR
+run node index.js then follow promps
 
 ```
 
 ## Contribution
 
 ```
-CLEAR
+NA
 
 ```
 
 ## Test
 
 ```
-CLEAR
+this is me testing... duh
 
 ```
 
 ## Github
 
 ```
-CLEAR
+https://github.com/sego37/RepoTemplate-
 
 ```
 
 ## Email
 
 ```
-CLEAR
+sego37@gmail.com
 
 ```
 
 ## Links
 
 ```
-CLEAR
+NA
 
 ```
+
+## License
+- Apache 2.0
+- https://www.google.com/search?q=Apache%202.0     
 
 
