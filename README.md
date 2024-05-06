@@ -1,11 +1,11 @@
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache%202.0)
 
-
-# NA
+# Very COOL TEMPLATE!!
 
 ## Description
 ```
-NA
+it helps me write READMES!
 
 ```
 ##  Installation
@@ -18,35 +18,35 @@ NA
 ## Usage
 
 ```
-NA
+fill in the blanks!
 
 ```
 
 ## Contribution
 
 ```
-ANA
+NA
 
 ```
 
 ## Test
 
 ```
-NA
+im testing this puppy right now!
 
 ```
 
 ## Github
 
 ```
-NA
+https://github.com/sego37/RepoTemplate-
 
 ```
 
 ## Email
 
 ```
-NA
+sego37@gmail.com
 
 ```
 
@@ -56,5 +56,9 @@ NA
 NA
 
 ```
+
+## License
+- Apache 2.0
+- https://www.google.com/search?q=Apache%202.0     
 
 
